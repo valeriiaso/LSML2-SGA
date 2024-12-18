@@ -10,4 +10,4 @@ The model, used in the application, couldn't be uploaded to this repository due 
 
 The [general_notebook.ipynb](https://github.com/valeriiaso/LSML2-SGA/blob/main/general_notebook.ipynb) contains the overall process of data loading and model training and evaluation.
 
-The [app.py](https://github.com/valeriiaso/LSML2-SGA/blob/main/app.py) contains the code for the Flask application itself.
+The [app.py](https://github.com/valeriiaso/LSML2-SGA/blob/main/app.py) contains the code for the Flask application itself. After running the server and following the link http://127.0.0.1:8000, the user can upload an image, click 'Classify' button, and then get the result of classification.
